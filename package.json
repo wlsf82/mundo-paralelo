@@ -1,0 +1,16 @@
+{
+  "name": "mundo-paralelo",
+  "version": "1.0.0",
+  "description": "TBD.",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
