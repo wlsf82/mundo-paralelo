@@ -5,7 +5,12 @@
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
-    "test": "cypress run"
+    "test": "cypress run",
+    "test:batch-1": "cypress run --spec 'cypress/e2e/batch-1'",
+    "test:batch-2": "cypress run --spec 'cypress/e2e/batch-2'",
+    "test:batch-3": "cypress run --spec 'cypress/e2e/batch-3'",
+    "test:batch-4": "cypress run --spec 'cypress/e2e/batch-4'",
+    "test:batch-5": "cypress run --spec 'cypress/e2e/batch-5'"
   },
   "keywords": [],
   "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
