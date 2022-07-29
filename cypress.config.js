@@ -7,5 +7,5 @@ module.exports = defineConfig({
     },
     supportFile: false
   },
-  projectId: "2t117b"
+  projectId: "bgnqy5"
 });
